@@ -1,6 +1,5 @@
 # 🛍️ Alsooq: Multi-Vendor Commercial Platform (2023)
-### Advanced Angular 16 Business Management Solution (Frontend Implementation)
-
+### Technical Case Study: Frontend Architecture & UI Engineering
 <br>
 
 <p align="center">
